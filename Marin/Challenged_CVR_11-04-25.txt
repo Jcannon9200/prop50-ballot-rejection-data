@@ -1,0 +1,5 @@
+Zip Code	Party	ballot Status	Challenge Reason
+94965	Democratic	Not Counted	VAV - Voter already Voted
+94960	Democratic	Not Counted	VAV - Voter already Voted
+94960	Peace and Freedom	Not Counted	VAV - Voter already Voted
+94965	No Party Preference	Not Counted	VAV - Voter already Voted

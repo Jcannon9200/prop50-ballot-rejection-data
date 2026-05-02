@@ -1,0 +1,10 @@
+Zip Code	Party	ballot Status	Challenge Reason
+94945	American Indepentent	Not Counted	Vote at Polls
+94903	Republican	Not Counted	Returned VBM
+90401		Not Counted	Wrong County
+94901	Republican	Not Counted	Returned VBM
+94941	Democratic	Not Counted	Returned VBM
+94553		Not Counted	Wrong County
+93060		Not Counted	Wrong County
+94965	Republican	Not Counted	Returned VBM
+94947	No Party Preference	Not Counted	No residence address
