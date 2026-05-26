@@ -1,0 +1,122 @@
+======================================================================
+ELECTION FILE AUDIT REPORT
+Target election: November 2025 California Special Election
+======================================================================
+Total files scanned : 35
+CONFIRMED (Nov 2025): 20
+FLAGGED (other elec.): 9
+UNKNOWN             : 6
+
+======================================================================
+CONFIRMED (20 files)
+======================================================================
+  [(root)]  Napa.pdf
+    Reason: matched: '11/4/2025'
+
+  [Solona]  Solona\2025-Special - Provisional Challenged.xls
+    Reason: filename: matched: '2025-Special'
+
+  [Solona]  Solona\2025-VBM Rejected Ballot Request.xlsx
+    Reason: filename: matched: '2025-VBM Rejected Ballot'
+
+  [Marin]  Marin\Challenged_CVR_11-04-25.txt
+    Reason: filename: matched: '11-04-25'
+
+  [Marin]  Marin\Challenged_Provisional_11-04-25.txt
+    Reason: filename: matched: '11-04-25'
+
+  [Marin]  Marin\Challenged_VBM_11-04-25.txt
+    Reason: filename: matched: '11-04-25'
+
+  [San Francisco]  San Francisco\N25_CVR.pdf
+    Reason: matched: 'November 4, 2025'
+
+  [San Francisco]  San Francisco\N25_PV.pdf
+    Reason: matched: 'November 4, 2025'
+
+  [San Francisco]  San Francisco\N25_VBM.pdf
+    Reason: matched: 'November 4, 2025'
+
+  [San Francisco]  San Francisco\avmr070_challenedreturnsbydateparty.pdf
+    Reason: matched: '11/4/2025'
+
+  [San Francisco]  San Francisco\avmr156challenedreturnsbyvotingpct.pdf
+    Reason: matched: 'November 4 2025'
+
+  [Amador]  Amador\James Cannon.zip
+    Reason: matched: 'special 2025'
+
+  [Del Norte]  Del Norte\REDACTED_Rejected Ballots from Nov 2025 Special Election.xlsx
+    Reason: filename: matched: 'Rejected Ballots from Nov 2025'
+
+  [Lake]  Lake\Challenged Ballots - Nov 2025 Election.pdf
+    Reason: filename: matched: 'Challenged Ballots - Nov 2025'
+
+  [Inyo]  Inyo\Nov 2025 rejected MAILED ballots data - Inyo Elections.xlsx
+    Reason: filename: matched: 'Nov 2025'
+
+  [Inyo]  Inyo\Nov 2025 rejected PROV. ballots data - Inyo Elections (Provisional Ballot Log-REDACTED) (1).xlsx
+    Reason: filename: matched: 'Nov 2025'
+
+  [Madera]  Madera\(2033) PRA Records Redacted 5.15.26- Rejected Ballot Data with Voter Party Registration 4909-2360-4140 2.pdf
+    Reason: matched: 'November 4 2025'
+
+  [Trinity]  Trinity\James Cannon Final Response.pdf
+    Reason: matched: 'November 2025'
+
+  [Monterey]  Monterey\8May26_Response_JC.pdf
+    Reason: matched: 'November 4, 2025'
+
+  [Shasta]  Shasta\searchable-pdf-STATEMENT-OF-VOTE-NOVEMBER-4-2025.pdf
+    Reason: matched: 'November 4, 2025'
+
+======================================================================
+FLAGGED — DIFFERENT ELECTION (9 files)
+======================================================================
+  [Humboldt]  Humboldt\avmr070_challenedreturnsbydateparty - G2022.pdf
+    Reason: filename: 2022 election — matched: 'G2022'
+
+  [Humboldt]  Humboldt\avmr070_challenedreturnsbydateparty- G2024.pdf
+    Reason: filename: 2024 election — matched: 'G2024'
+
+  [Humboldt]  Humboldt\avmr070_challenedreturnsbydateparty- P2024.pdf
+    Reason: filename: 2024 election — matched: 'P2024'
+
+  [Humboldt]  Humboldt\avmr156challenedreturnsbyvotingpct - G2022.pdf
+    Reason: filename: 2022 election — matched: 'G2022'
+
+  [Humboldt]  Humboldt\avmr156challenedreturnsbyvotingpct- G2024.pdf
+    Reason: filename: 2024 election — matched: 'G2024'
+
+  [Humboldt]  Humboldt\avmr156challenedreturnsbyvotingpct- P2024.pdf
+    Reason: filename: 2024 election — matched: 'P2024'
+
+  [Humboldt]  Humboldt\avmr158challenedreturnsbyissuecode - G2022.pdf
+    Reason: filename: 2022 election — matched: 'G2022'
+
+  [Humboldt]  Humboldt\avmr158challenedreturnsbyissuecode- G2024.pdf
+    Reason: filename: 2024 election — matched: 'G2024'
+
+  [Humboldt]  Humboldt\avmr158challenedreturnsbyissuecode- P2024.pdf
+    Reason: filename: 2024 election — matched: 'P2024'
+
+======================================================================
+UNKNOWN — COULD NOT DETERMINE (6 files)
+======================================================================
+  [Colusa]  Colusa\PRA request 2.pdf
+    Reason: no election date pattern found
+
+  [San Francisco]  San Francisco\Thermo Final.pdf
+    Reason: no election date pattern found
+
+  [Orange]  Orange\Data Order Application2025.pdf
+    Reason: no election date pattern found
+
+  [Madera]  Madera\(2033) PRA Response 5.15.26 - Rejected Ballot Data with Voter Party Registration 4936-8031-0444 2.pdf
+    Reason: no election date pattern found
+
+  [Stanislaus]  Stanislaus\2026-0415 PRA JCannon.csv
+    Reason: no election date pattern found
+
+  [Stanislaus]  Stanislaus\James Cannon 5-6-26 response.pdf
+    Reason: no election date pattern found
